@@ -5,3 +5,6 @@
 [submodule "CCMMR"]
 	path = CCMMR
 	url = https://github.com/djwtouw/ccmmr
+[submodule "CCNR"]
+	path = CCNR
+	url = https://github.com/djwtouw/ccnr
